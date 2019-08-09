@@ -30,3 +30,4 @@ console.log('Nome const:' + nome)
 
 console.log('Nome: ' + nome + ' idade: '+ idade);
 console.log(`Nome: ${nome} idade ${idade}`)
+// teste
